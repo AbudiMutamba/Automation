@@ -1,2 +1,9 @@
+
 # Automation
-bash_script
+
+A tool used to create schedules / reminders in windows using bash_script.
+
+## License
+
+[GNU]()
+
